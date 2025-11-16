@@ -1,0 +1,4 @@
+Si no trae el csv de Kaggle descargarlo de la pagina :https://www.kaggle.com/datasets/alejandroczernikier/properati-argentina-dataset
+
+y dejarlo en esta carpeta 
+
