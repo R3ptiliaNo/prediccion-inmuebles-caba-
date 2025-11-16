@@ -117,6 +117,9 @@ properati-argentina-dataset
 
 Luego **copia esos CSV a la carpeta local `/data`** del proyecto.
 
+Si no trae el csv de Kaggle descargarlo de la pagina :https://www.kaggle.com/datasets/alejandroczernikier/properati-argentina-dataset
+
+y dejarlo en carpeta DATA
 ---
 
 ### **2) ETL + Limpieza**
@@ -267,3 +270,4 @@ El proyecto cumple con:
 El flujo desde datos en crudo → modelo final → app web está completamente integrado, profesional y reproducible.
 
 ---
+
