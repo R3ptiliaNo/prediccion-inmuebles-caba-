@@ -1,7 +1,7 @@
 
 # 📌 **TP Final – Programación Avanzada**
 
-## **Predicción del precio de propiedades en CABA usando XGBoost + CatBoost**
+## **Predicción del precio de propiedades en CABA usando XGBoost + CatBoost.**
 
 **Autor:** *Asado Analytics*
 **Año:** 2025
@@ -270,4 +270,5 @@ El proyecto cumple con:
 El flujo desde datos en crudo → modelo final → app web está completamente integrado, profesional y reproducible.
 
 ---
+
 
