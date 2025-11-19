@@ -6,6 +6,13 @@
 **Autor:** *Asado Analytics*
 **Año:** 2025
 
+**Integrantes:** 
+  - Gastón Conessa
+  - Fernando Nieto Benavidez
+  - Alan Aramayo
+  - Alejandro Sacndinaro
+  - Juan Ignacio Failache
+
 ---
 
 # 🧠 **Descripción general del proyecto**
@@ -270,4 +277,5 @@ El proyecto cumple con:
 El flujo desde datos en crudo → modelo final → app web está completamente integrado, profesional y reproducible.
 
 ---
+
 
